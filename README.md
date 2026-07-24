@@ -114,8 +114,7 @@ Currently strengthening my problem-solving skills through:
 # 🌐 Connect With Me
 
 <p>
-
-<a href=" www.linkedin.com/in/ayush-patil-54915a378">
+<a href="https://www.linkedin.com/in/ayush-patil-54915a378/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
