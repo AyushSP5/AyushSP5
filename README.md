@@ -101,16 +101,6 @@ Currently strengthening my problem-solving skills through:
   <img src="https://streak-stats.demolab.com?user=AyushSP5&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushSP5&theme=tokyo-night"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p>
